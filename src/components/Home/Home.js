@@ -15,38 +15,38 @@ const Home = () => {
 
             <div className="row p-4 container">
 
-                <div className="col-lg-6 bg-danger">
+                <div className="col-lg-6">
                     <h1>What we provide</h1>
                     <small>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum labore rerum vitae quae sint quod iste magni maxime dolor nobis.</small>
                     <div className="row mt-5">
 
                         <div className="col-lg-6">
-                        <i class="fas fa-check-circle"></i>
+                        <i class="fas text-success fa-check-circle"></i>
                             <h5>High Secuirity</h5>
                             <p>We promise the best secuirity.we have such a huge Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deserunt, veritatis?</p>
                         </div>
                         <div className="col-lg-6">
-                        <i class="fas fa-check-circle"></i>
+                        <i class="fas  text-success fa-check-circle"></i>
                             <h5>High Secuirity</h5>
                             <p>We promise the best secuirity.we have such a huge Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deserunt, veritatis?</p>
                         </div>
                         <div className="col-lg-6">
-                        <i class="fas fa-check-circle"></i>
+                        <i class="fas  text-success fa-check-circle"></i>
                             <h5>High Secuirity</h5>
                             <p>We promise the best secuirity.we have such a huge Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deserunt, veritatis?</p>
                         </div>
                         <div className="col-lg-6">
-                        <i class="fas fa-check-circle"></i>
+                        <i class="fas  text-success fa-check-circle"></i>
                             <h5>High Secuirity</h5>
                             <p>We promise the best secuirity.we have such a huge Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deserunt, veritatis?</p>
                         </div>
                         <div className="col-lg-6">
-                        <i class="fas fa-check-circle"></i>
+                        <i class="fas  text-success fa-check-circle"></i>
                             <h5>High Secuirity</h5>
                             <p>We promise the best secuirity.we have such a huge Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deserunt, veritatis?</p>
                         </div>
                         <div className="col-lg-6">
-                        <i class="fas fa-check-circle"></i>
+                        <i class="fas  text-success fa-check-circle"></i>
                             <h5>High Secuirity</h5>
                             <p>We promise the best secuirity.we have such a huge Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deserunt, veritatis?</p>
                         </div>
