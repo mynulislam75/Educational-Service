@@ -2,7 +2,8 @@ import React, { useEffect, useState } from 'react';
 import './Services.css'
 
 const Services = () => {
-    const [services, setServices] = useState([])
+    const [services, setServices] = useState([]);
+    // fething data from public folder
     useEffect(() => {
         fetch('./services.JSON')
             .then(res => res.json())

@@ -4,8 +4,8 @@ import Singlecourse from '../Singlecourse/Singlecourse';
 
 const Home = () => {
 
+    const [course, setCourse] = useState([]);
     // loading data from public folder
-    const [course, setCourse] = useState([])
     useEffect(() => {
         fetch('./fakedata.JSON')
             .then(res => res.json())
@@ -16,7 +16,7 @@ const Home = () => {
 
             <div className="row p-4 container">
 
-                <div className="col-lg-6">
+                <div className="col-lg-6 col-md-6 col-sm-12">
                     <h1>What We Provide</h1>
                     <small>A school is an educational institution designed to provide learning spaces and learning environments for the teaching of students under the direction of teachers</small>
 

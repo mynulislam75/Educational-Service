@@ -6,7 +6,7 @@
 .heading-name small{
   text-align: center;
   align-items: center;
-  color: rgb(32, 63, 0);
+  color: red;
 }
 #span-one{
   color: red;
@@ -15,5 +15,8 @@
   color:green;
 }
 #span-three{
-  color:rgb(214, 153, 40);
+  color:rgb(103, 33, 168);
+}
+.App{
+  background-color: rgb(240, 255, 255);
 }
