@@ -2,8 +2,8 @@ import React from 'react';
 
 const Staff = () => {
     return (
-        <div>
-           <h3>staff</h3> 
+        <div className="text-bold text-success d-flex justify-content-center">
+           <h3>STAFF DETAILS COMING SOON.....</h3> 
         </div>
     );
 };

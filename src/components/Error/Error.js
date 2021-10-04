@@ -2,8 +2,8 @@ import React from 'react';
 
 const Error = () => {
     return (
-        <div>
-            <h4>errorrrrr</h4>
+        <div className="d-flex justify-content-center fw-bold text-warning">
+            <h4>404 NOT FOUND</h4>
         </div>
     );
 };

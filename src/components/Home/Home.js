@@ -4,6 +4,7 @@ import Singlecourse from '../Singlecourse/Singlecourse';
 
 const Home = () => {
 
+    // loading data from public folder
     const [course, setCourse] = useState([])
     useEffect(() => {
         fetch('./fakedata.JSON')

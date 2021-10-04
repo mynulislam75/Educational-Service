@@ -2,8 +2,8 @@ import React from 'react';
 
 const Events = () => {
     return (
-        <div>
-            <h3>eventss</h3>
+        <div className="d-flex justify-content-center">
+            <h3>EVENTS COMING SOON....</h3>
         </div>
     );
 };
