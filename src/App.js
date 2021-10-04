@@ -16,7 +16,7 @@ function App() {
     <div className="App">
 
       <div className="heading-name">
-        <h2><span id="span-one">KIDDY</span> <span id="span-two">LEARNING</span> <span id="span-three">INSTITUTE</span></h2>
+        <h2><span id="span-one">KIDS</span> <span id="span-two">LEARNING</span> <span id="span-three">INSTITUTE</span></h2>
         <br />
         <small>WE PROMISE,BEST SERVICE</small>
       </div>

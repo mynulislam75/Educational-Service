@@ -23,6 +23,7 @@ const Services = () => {
                         </h3>
                         <h6>Instructor:{service.teacher}</h6>
                         <p>Price:${service.price}</p>
+                        <button className="btn-enroll">Enroll Now</button>
                         </div>
 
                     </div>

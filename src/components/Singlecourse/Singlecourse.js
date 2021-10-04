@@ -10,9 +10,9 @@ const Singlecourse = (props) => {
             <img className="img-fluid p-2" src={img} alt="" />
             <div className="p-2">
             <h3>{name}</h3>
-            <h3>{teacher}</h3>
-            <h5>price:{price}</h5>
-            <button className="bg-primary">Enroll Now</button>
+            <h5>Instructor:{teacher}</h5>
+            <p>price:${price}</p>
+            <button className="enroll-btn">Enroll Now</button>
             </div>
           
         

@@ -6,7 +6,7 @@
 .heading-name small{
   text-align: center;
   align-items: center;
-  color: chartreuse;
+  color: rgb(32, 63, 0);
 }
 #span-one{
   color: red;
@@ -15,5 +15,5 @@
   color:green;
 }
 #span-three{
-  color:orange;
+  color:rgb(214, 153, 40);
 }

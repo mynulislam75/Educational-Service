@@ -1,5 +1,5 @@
 #service-container{
-    height: 320px;
+    height: 350px;
     width: 250px;
     margin-left: 15px;
     margin-bottom: 20px;
@@ -9,4 +9,10 @@
 #service-container:hover{
     border: 1px solid rgb(241, 202, 202);
     box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+}
+.btn-enroll{
+    background-color: rgb(122, 238, 122);
+    border-radius: 5px;
+    outline: none;
+    border: none;
 }
