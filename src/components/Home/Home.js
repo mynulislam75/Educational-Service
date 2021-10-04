@@ -61,15 +61,21 @@ const Home = () => {
             </div>
 
 {/* class container */}
-            <div className="class-container bg-danger">
-                <div className="mb-5 mt-4">
-                    <h1>Calss we offer</h1>
-                    <small>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque explicabo sed vitae sunt aliquam consectetur consequuntur pariatur reiciendis modi perspiciatis.</small>
-                </div>
+            <div className="class-container mt-4 mb-4">
+
+                    <div className="p-4">
+                    <h1>Classes we offer</h1>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque explicabo sed vitae sunt aliquam consectetur consequuntur pariatur reiciendis modi perspiciatis.</p>
+                    </div>
+                    
+                
                 <div className="row">
 
                     {
-                        course.map(course => <Singlecourse course={course}></Singlecourse>)
+                        course.map(course => <Singlecourse 
+                            course={course}
+                            key={course.key}
+                            ></Singlecourse>)
                     }
                 </div>
             </div>
