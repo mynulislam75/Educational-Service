@@ -1,8 +1,11 @@
 
 #course-details{
-    background-color: cornsilk;
-    border: 1px solid gray;
     margin-left: 60px;
     height: 350px;
     border-radius: 8px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+#course-details:hover{
+    border: 1px solid rgb(241, 202, 202);
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
 }
