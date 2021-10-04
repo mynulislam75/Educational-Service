@@ -1,0 +1,22 @@
+#navbar{
+    background-color: black;
+    padding: 25px;
+    margin-bottom: 25px;
+    align-items: center;
+    margin-top:5px;
+}
+
+div NavLink{
+    margin-left: 10px;
+    text-decoration: none;
+    color: white;
+}
+.nav-text{
+    text-decoration: none;
+    align-items: center;
+    text-align: center;
+    margin-left: 10px;
+    color: whitesmoke;
+    font-size: medium;
+    font-weight: 700px;
+}

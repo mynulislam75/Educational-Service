@@ -1,0 +1,20 @@
+#course-details{
+    margin-left: 20px;
+    margin-bottom: 10px;
+    padding:10px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    height: 350px;
+    background-color: azure;
+}
+
+div img{
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+    align-items: center;
+}
+div small{
+    word-wrap: break-word;
+    padding: 20px;
+}
